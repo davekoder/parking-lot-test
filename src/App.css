@@ -1,0 +1,6 @@
+.parking-lot {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  padding: 50px;
+}
